@@ -97,4 +97,4 @@ COPY orders FROM '/your/path/data/Orders.csv' CSV HEADER;
 ## 👤 Author
 
 Bhupesh | B.A. Economics + PG Diploma in Data Analytics  
-[LinkedIn](#) • [GitHub](#)
+[LinkedIn](www.linkedin.com/in/bhupesh-jogale-a95a76363) • [GitHub](https://github.com/bhupeshjogale-cell)
